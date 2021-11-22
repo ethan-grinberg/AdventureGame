@@ -1,0 +1,39 @@
+{
+  "startingRoom": "MatthewsStreet",
+  "endingRoom": "Siebel1314",
+  "rooms": [
+    {
+      "name": "MatthewsStreet",
+      "description": " asdlf",
+      "directions": [
+        {
+          "directionName": "east",
+          "room": "Siebel1314"
+        }
+      ],
+      "items": [
+      ]
+    },
+    {
+      "name": "Siebel1314",
+      "description": "You are in Siebel 1314.  There are happy CS 126 students doing a code review.",
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "MatthewsStreet"
+        }
+      ],
+      "items": [
+      ]
+    },
+    {
+      "description": "You are in the east hallway.  You can see Einstein Bros' Bagels and a stairway.",
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "Siebel1314"
+        }
+      ]
+    }
+  ]
+}

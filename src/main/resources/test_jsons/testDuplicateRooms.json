@@ -1,0 +1,42 @@
+{
+  "startingRoom": "MatthewsStreet",
+  "endingRoom": "Siebel1314",
+  "rooms": [
+    {
+      "name": "MatthewsStreet",
+      "description": " asdlf",
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "Siebel1314"
+        }
+      ],
+      "items": [
+      ]
+    },
+    {
+      "name": "Siebel1314",
+      "description": "You are in Siebel 1314.  There are happy CS 126 students doing a code review.",
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "MatthewsStreet"
+        }
+      ],
+      "items": [
+      ]
+    },
+    {
+      "name": "Siebel1314",
+      "description": "You are in the north hallway.  You can see Siebel 1112 and the door toward NCSA.",
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "MathewsStreet"
+        }
+      ],
+      "items": [
+      ]
+    }
+  ]
+}

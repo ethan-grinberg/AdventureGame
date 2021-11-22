@@ -1,0 +1,26 @@
+{
+  "startingRoom": "MatthewsStreet",
+  "endingRoom": "Siebel1314",
+  "rooms": [
+    {
+      "name": "MatthewsStreet",
+      "description": " asdlf",
+      "directions": [
+      ],
+      "items": [
+      ]
+    },
+    {
+      "name": "Siebel1314",
+      "description": "You are in Siebel 1314.  There are happy CS 126 students doing a code review.",
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "MatthewsStreet"
+        }
+      ],
+      "items": [
+      ]
+    }
+  ]
+}
